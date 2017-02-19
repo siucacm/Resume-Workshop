@@ -76,7 +76,26 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Some do take home exams
 - Some do whiteboard coding
 
+### Book resoureces
+- CTCI
+- PIE
+- CLRS
 
+## Resumes
+
+- (You are more than a resume)[http://will.blankenship.io/2014/10/20/You-Are-More-Than-A-Resume.html] by William Blakenship
+- Seriously you are
+- But its the easiest way for the employer to predict whether you are good enough for the job
+- Try to make your descriptions measurable
+- Instead of "Wrote java to automate get requests", "Wrote 1 java module that automate Y requests and have Z about of time"
+- In short, " I used X to do Y which led to Z"
+- Show that YOU CAN DELIVER and make the company/business better
+- Please dont have typos and grammar mistakes
+- Have contact information on top
+- Link your linkedin and email
+- Try to include projects or work experience
+- Include courses if you dont have projects or experience to talk about
+- Dont have experience -> Do cool stuff on your own!
 
 
 
