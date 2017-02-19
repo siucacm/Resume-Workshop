@@ -36,7 +36,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Your objective is to show the employer that you are the right person to deliver
 - Your objective is to show the employer that you are the right person to add value to the table
 - Constantly think about how to add value and how to deliver
-- You need to show that you are persistent, determined and result-oriented (but you should leave those out on your resume :smile: )
+- You need to show that you are persistent, determined and result-oriented (but you should leave those out off your resume :smile: )
 
 #### Resume
 - We will get back to this a little later.
@@ -49,19 +49,19 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - All companies have different cultures so figure that out.
 
 #### At the pitch
-- Show you can add value and deliver consistently
+- Show you can add value and are capable to deliver consistently
 - Ask questions about their product, their stack etc.
 - You have to show initiative
 - Since this is 2017, you need to show that you want to be working for that company and want to stay there. Software engineers move around a lot. No company wants to invest in talent and later lose it.
-- Eg: "I am interested in databases. I noticed you use database X. How do you solve problem Y? "
-- If totally out of words you can ask something general like "What is a typical work day like?"
+- Eg: "I am interested in databases. I noticed you use database X. How do you solve problem Y? Why not use Z?"
+- If totally out of words you can ask something general like "What is a typical work day like?" or "What is ratio of managers to developers?" "How many meetings a week?"
 
 #### Behavioral interviews
 
 - STAR format (look it up)
 - Questions about conflicts between team members, projects, deadlines, issues etc
 - Show you are a team player
-- Rehearse such questions so you dont stumble.
+- Rehearse such questions and prepare answers so you dont stumble.
 
 
 ##### Some companies do technical interviews as well. Some simply ask concepts while others make you write code!
@@ -71,7 +71,10 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Technical interviews can be difficult. Practice! Brush up on your data structures and algorithm skills!
 - Do problems on hackerrank, leetcode, interviewbit etc
 - Make a git repository out of it ;)
-- Know basic data structures as well.
+- Know basic data structures as well
+- Some can ask you questions on the spot
+- Some do take home exams
+- Some do whiteboard coding
 
 
 
