@@ -96,6 +96,9 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Try to include projects or work experience
 - Include courses if you dont have projects or experience to talk about
 - Dont have experience -> Do cool stuff on your own!
+  * You dont have to make something super unique or cool
+  * Everyone needs to start somewhere
+  * Dont know where to start, make a todo list :wink:
 
 
 
