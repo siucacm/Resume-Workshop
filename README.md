@@ -19,6 +19,7 @@ That may sound abrupt but that is the reality!
 - Help out a RSO
 - Work on toy side projects
 - Do well in academic projects
+- Volunteer (Hack SI)
 
 #### Increase social presence
 
@@ -37,6 +38,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Your objective is to show the employer that you are the right person to add value to the table
 - Constantly think about how to add value and how to deliver
 - You need to show that you are persistent, determined and result-oriented (but you should leave those out off your resume :smile: )
+- You are a product trying to sell yourself.
 
 #### Resume
 - We will get back to this a little later.
@@ -49,10 +51,12 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - All companies have different cultures so figure that out.
 
 #### At the pitch
+
+- Should of done research on the company
 - Show you can add value and are capable to deliver consistently
-- Ask questions about their product, their stack etc.
+- Ask questions about their product, their tech stack, etc.
 - You have to show initiative
-- Since this is 2017, you need to show that you want to be working for that company and want to stay there. Software engineers move around a lot. No company wants to invest in talent and later lose it.
+- Since this is 2019, you need to show that you want to be working for that company and want to stay there. Software engineers move around a lot. No company wants to invest in talent and later lose it.
 - Eg: "I am interested in databases. I noticed you use database X. How do you solve problem Y? Why not use Z?"
 - If totally out of words you can ask something general like "What is a typical work day like?" or "What is ratio of managers to developers?" "How many meetings a week?"
 
