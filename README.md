@@ -44,7 +44,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 #### Coding Assessments
 - Almost any big company will require you to do a coding assessment online to weed out people
 - If it's a FANG company these problems will most likely be quite difficult
-- I personally recommend doing a leetcode problem a day if you are going to apply to FANG
+- doing a leetcode problem a day is recommended if you are going to apply to FANG
 - Fresh up on data structures and algorithms, b-search, b-trees, hash maps, etc.
 - Don't get discouraged if you can't figure it out.
 
