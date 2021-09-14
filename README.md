@@ -1,4 +1,4 @@
-# Workshop5
+# Resume Workshop
 Get hired 
 
 Today we will be talking about resumes,interviews,career fairs, etc...
@@ -39,9 +39,23 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Constantly think about how to add value and how to deliver
 - You need to show that you are persistent, determined and result-oriented (but you should leave those out off your resume :smile: )
 - You are a product trying to sell yourself.
+- APPLY! APPLY! APPLY! No matter if you think you are "not qualified", you might as well, the worst you can get is a rejection email
+
+#### Coding Assessments
+- Almost any big company will require you to do a coding assessment online to weed out people
+- If it's a FANG company these problems will most likely be quite difficult
+- I personally recommend doing a leetcode problem a day if you are going to apply to FANG
+- Fresh up on data structures and algorithms, b-search, b-trees, hash maps, etc.
+- Don't get discouraged if you can't figure it out.
 
 #### Resume
 - We will get back to this a little later.
+
+#### General "I can't even get an interview" tips
+- Firstly, you need to make sure you're actually applying to enough places. I would set aside 30 minutes a day to just apply to places.
+- If you aren't getting any responses, you need to rework your resume, more on that later.
+- If you can't get past the coding assessment, then you need to study DS and algo's more
+- Network! Knowing people in the industry is 100x more valuable than anything else. Go to meetups, talks, hackathons, etc. Connect with them on linkedin
 
 ## Pass an interview
 
