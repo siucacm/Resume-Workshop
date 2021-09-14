@@ -122,6 +122,5 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 
 For a step by step guide on how to write a successfull resume I recommend [This by FreeCodeCamp.org](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)
 
-
 PS: You can apply for as many companies as you want and get rejected, you just need that one company that says "You got the job" and you are good. Dont get disheartened.
 
