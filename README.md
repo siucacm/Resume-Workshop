@@ -114,6 +114,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Try to include projects or work experience
 - Include courses if you dont have projects or experience to talk about
 - BE DIFFERENT!, but not too different, you want to stand out, but not make the recruiter throw it in the trash instantly.
+- If it's a company you really want to work for, tailor your resume specificly to them.
 - Dont have experience -> Do cool stuff on your own!
   * You dont have to make something super unique or cool
   * Everyone needs to start somewhere
