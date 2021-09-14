@@ -115,7 +115,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Include courses if you dont have projects or experience to talk about
 - BE DIFFERENT!, but not too different, you want to stand out, but not make the recruiter throw it in the trash instantly
 - USE KEYWORDS, many online applicants will get filtered out for not having certain key words the company is looking for
-- If it's a company you really want to work for, tailor your resume specificly to them.
+- If it's a company you really want to work for, tailor your resume specifically to them.
 - Dont have experience -> Do cool stuff on your own!
   * You dont have to make something super unique or cool
   * Everyone needs to start somewhere
