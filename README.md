@@ -113,6 +113,7 @@ My name is [X], I study [Y] at [Z] and am currently looking for a [A]. *Hands of
 - Link your linkedin and email
 - Try to include projects or work experience
 - Include courses if you dont have projects or experience to talk about
+- BE DIFFERENT!, but not too different, you want to stand out, but not make the recruiter throw it in the trash instantly.
 - Dont have experience -> Do cool stuff on your own!
   * You dont have to make something super unique or cool
   * Everyone needs to start somewhere
